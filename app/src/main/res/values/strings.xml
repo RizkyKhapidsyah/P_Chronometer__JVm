@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P_Chronometer__JVm</string>
+    <string name="C_Chronometer1_IDXML">00:00</string>
+    <string name="B_StartChronometer_IDXML">Mulai</string>
+    <string name="B_StopChronometer_IDXML">Berhenti</string>
+    <string name="B_RestartChronometer_IDXML">Ulangi</string>
+    <string name="B_Keluar_IDXML">Keluar</string>
+    <string name="TV_Judul_IDXML">Chronometer</string>
+</resources>
